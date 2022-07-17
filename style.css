@@ -1,0 +1,30 @@
+img{
+    width: 25%;
+    height: 70%;
+    margin:1%;
+    display: inline-flexbox;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+#img{
+    margin-left: 15%
+    
+}
+/* div{
+    display: inline-flexbox;
+    flex-direction: row;
+    flex-wrap: nowrap;
+} */
+nav{
+    color: black;
+    border-bottom: grey;
+    border-bottom-style: solid;
+    margin-bottom: 2%;
+    margin-right: 18%;
+    
+    font-family: 'Raleway', sans-serif;
+    height: 5%;
+    font-size: 125%;
+    font-stretch: narrower;
+    text-transform: uppercase;
+}
